@@ -1,0 +1,12 @@
+https://metanit.com/web/typescript/1.1.php
+
+
+
+1) качаем NODE JS последнюю версию
+а потом запускаем
+npm install -g typescript
+
+npm i -g ts-node
+
+npm install --global yarn
+npm install --global nodemon
