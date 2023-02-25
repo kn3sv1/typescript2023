@@ -2,9 +2,10 @@
     "compilerOptions": {
       "module": "commonjs",
       "target": "es5",
-      "noImplicitAny": true,
+      "noImplicitAny": false,
       "outDir": "./dist",
-      "sourceMap": true
+      "sourceMap": true,
+      //"strictNullChecks": true
     },
     "exclude": ["node_modules", "**/*.test.ts"]
   }
