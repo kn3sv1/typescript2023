@@ -1,4 +1,4 @@
-export let roma: any = 123;
+export {};
 
 // https://metanit.com/web/typescript/3.5.php
 
