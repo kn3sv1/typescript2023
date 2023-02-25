@@ -1,0 +1,14 @@
+
+https://www.becomebetterprogrammer.com/how-to-debug-node-js-with-typescript-using-nodemon/
+
+
+
+npm init -y
+
+npm i -D ts-node typescript
+
+npm run start
+
+
+2) 
+https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a
