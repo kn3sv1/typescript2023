@@ -1,0 +1,13 @@
+https://javascript.plainenglish.io/typescript-debugging-inside-vs-code-b26a67eb91e9
+
+https://github.com/barisbll/ts-debug
+
+
+
+
+сначала запускаем в консоле потом  vscode а потом в браузере
+$ npm run start:debug
+
+
+
+http://localhost:8000/areWeDebugging?
